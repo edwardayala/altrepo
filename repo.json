@@ -1,7 +1,7 @@
 {
   "name": "PlusPlus Repo",
-	"identifier": "com.plusplus.AltStore",
-	"sourceURL": "https://raw.githubusercontent.com/edwardayala/altrepo/master/repo.json"
+  "identifier": "com.plusplus.AltStore",
+  "sourceURL": "https://raw.githubusercontent.com/edwardayala/altrepo/master/repo.json",
   "userInfo": {},
   "news": [],
   "apps": [
